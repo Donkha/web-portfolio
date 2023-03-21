@@ -1,0 +1,55 @@
+body{
+    margin: 2px;
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 30px;
+    color:blueviolet;
+}
+h4{
+    font-size: 30px;
+    color:brown;
+}
+h5{
+    font-size: 30px;
+    color:chocolate;
+}
+.name-highlight{
+    color:turquoise;
+    margin-left: 9%;
+}
+h3{
+    font-size: 30px;
+}
+.name-valu{
+    color:darkcyan;
+}
+.half-width{
+    width: 40%;
+    float:left;
+    margin-left: 1%;
+    padding-left: 2%;
+}
+.half-width ing{
+    width: 5000%;
+}
+.top-banner{
+    background-image: url("images/Banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient( 45deg, lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+
+}
